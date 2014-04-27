@@ -1,6 +1,6 @@
 ## For peer assessment: inverting a matrix using a cache of results
 
-## Create a matrix object that calcaultes its inverse with caching
+## Create a matrix object that calculates its inverse with caching
 makeCacheMatrix <- function(x = matrix()) {
 	## Return a special matrix object	
         m <- NULL
